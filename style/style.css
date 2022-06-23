@@ -37,7 +37,7 @@ header{
 
 
 .header__banner{
-  background-image: url("../imgs/hauiling-banner.webp");
+  background-image: url("../imgs/hauiling-banner-mattaslogistiscs.webp");
   height: 100%; 
   background-position: center;
   background-repeat: no-repeat;
@@ -563,7 +563,7 @@ header{
     }
 
     .header__banner{
-        background-position: -250px 0px;
+        background-position: -100px 0px;
         
     }
 
@@ -665,7 +665,7 @@ header{
 
 @media only screen and (max-width: 480px) {
     .header__banner{
-        background-position: -300px 0px;
+        background-position: -100px 0px;
         
     }
     .footeer__wrapper__divs-container-h2{
@@ -687,7 +687,7 @@ header{
 
 @media only screen and (max-width: 380px) {
     .header__banner{
-        background-position: -425px 0px;
+        background-position: -150px 0px;
         
     }
     .offer__main__div-sub-two{
